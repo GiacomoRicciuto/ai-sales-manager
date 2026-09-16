@@ -76,13 +76,3 @@ Tipi canonici di evento:
 ---
 
 *(le voci successive vengono appese sotto questa, sempre con prefisso `## [YYYY-MM-DD] <tipo> | ...`)*
-
-
-## [2026-05-12] query | `/sales prospect "massimiliano bohm"`
-- Discovery web (sito + LinkedIn + CV pubblico + speakership + testimonianze)
-- Entità create: `[[10-Account/bohm-consulting]]`, `[[20-Persone/massimiliano-bohm]]`
-- Output: `[[50-Output/2026-05-12-prospect-bohm-consulting]]`
-- Score finale: **78/100 — Grade B+ — Confidence Medium**
-- Raccomandazione: outreach personalizzato a 1, frame peer-to-peer tecnico, NON pipeline di massa
-- Warning fondazione: ICP, azienda, offerte, sales-rep tutti in stato TODO-imprenditore → score Company Fit (65) e Outreach Readiness (75) hanno varianza ±15 finché la fondazione non è compilata
-- Skill correlate suggerite per i prossimi step: `sales-outreach` (per la sequenza touchpoint dettagliata), `sales-research` (se si apre conversazione e serve approfondimento clienti enterprise di Böhm Consulting)

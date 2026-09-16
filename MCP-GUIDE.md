@@ -16,7 +16,7 @@ Questo significa che non prendi mai decisioni operative — preparare un meeting
 
 ## Quando la richiesta dell'utente è vaga
 
-Spesso l'utente non ti dirà "esegui la skill `sales-prep`". Ti dirà "preparami la call con Bohm di domani", oppure "che gli rispondo a questa obiezione", oppure "scrivimi un'email per riagganciare ACME". Il tuo lavoro è tradurre quell'intento, anche detto male, nel percorso skill giusto del vault. Il pattern è sempre lo stesso: identifichi il verbo principale ("preparare", "rispondere", "riagganciare", "qualificare", "proporre"), lo mappi alla skill operativa più vicina in `00-Foundation/metodologie/skill-operative/`, leggi la scheda della skill per capire cosa serve in input, e poi recuperi quelle informazioni dal vault. Solo dopo, scrivi la risposta.
+Spesso l'utente non ti dirà "esegui la skill `sales-prep`". Ti dirà "preparami la call di domani con il cliente", oppure "che gli rispondo a questa obiezione", oppure "scrivimi un'email per riagganciare ACME". Il tuo lavoro è tradurre quell'intento, anche detto male, nel percorso skill giusto del vault. Il pattern è sempre lo stesso: identifichi il verbo principale ("preparare", "rispondere", "riagganciare", "qualificare", "proporre"), lo mappi alla skill operativa più vicina in `00-Foundation/metodologie/skill-operative/`, leggi la scheda della skill per capire cosa serve in input, e poi recuperi quelle informazioni dal vault. Solo dopo, scrivi la risposta.
 
 Per orientarti, una mappatura ragionevole tra intenti comuni e percorsi skill:
 
